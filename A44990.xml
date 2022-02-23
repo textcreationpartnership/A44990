@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Hvmble petition and remonstrance presented unto both the High and Honourable Houses of Parliament concerning the insupportable grievance of the farthing tokens.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44990</idno>
+            <idno type="STC">Wing H3439A</idno>
+            <idno type="STC">ESTC R26811</idno>
+            <idno type="EEBO-CITATION">09547132</idno>
+            <idno type="OCLC">ocm 09547132</idno>
+            <idno type="VID">43594</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44990)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43594)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Hvmble petition and remonstrance presented unto both the High and Honourable Houses of Parliament concerning the insupportable grievance of the farthing tokens.</title>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Money --  England.</term>
+               <term>Legal tender --  Early works to 1800.</term>
+               <term>Currency question --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43594:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:43594:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>AN HVMBLE PETITION AND REMONSTRANCE PRESENTED Unto both the High and Honourable Houſes OF PARLIAMENT, <hi>CONCERNING The inſupportable grievance of the Farthing Tokens.</hi>
+            </p>
+            <p>Printed in the yeare, 1642.</p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:43594:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <pb facs="tcp:43594:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>TO The Right Honourable the Lords now aſſembled in the High Court of PARLIAMENT.</head>
+            <head type="sub">The humble Petition and Remonſtrance of us whoſe names are here ſubſcribed of London, Weſtminſter, Middleſex, Southwark, and other places of the King<g ref="char:EOLhyphen"/>dome, in behalfe of themſelves and others.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p n="1">
+               <hi>1</hi> THat about <hi>26.</hi> yeares ſince, King <hi>Iames</hi> of bleſſed memory, conceiving that Farthing Tokens would bee uſefull to the Subjects, and helpfull to the poore, cauſed ſome quantities thereof to be made, and committed the care and truſt both for the iſſuing forth and rechanging of them againe to <hi>Iohn</hi> Lord <hi>Harrington,</hi> and afterwards to the Lady <hi>Anne</hi> his wife.</p>
+            <p n="2">
+               <hi>2.</hi> That <hi>1. Caroli</hi> the King by his Letters Patents grants unto the Dutcheſſe of Lenox, and Sir <hi>Francis Crane,</hi> the office of making Tokens for the terme of <hi>17.</hi> yeares, at the rent of one hundred Markes <hi>per annum.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> That <hi>11. Caroli</hi> the King grants the office of making the ſaid Farthings to the Lord <hi>Matravers</hi> and Sir <hi>Francis Crane,</hi> their executors, adminiſtrators, and aſſignes.</p>
+            <p n="4">
+               <hi>4.</hi> That <hi>15. Caroli</hi> the King by his Letters Patents grants the office of making the Farthing Tokens to the Lord <hi>Matravers</hi> alone at the rent of foureſcore pounds <hi>per annum.</hi>
+            </p>
+            <p n="5">
+               <hi>5.</hi> That in all the ſeverall Patents their Majeſties have de<g ref="char:EOLhyphen"/>clared their gracious intents and pleaſures was that the ſaid Far<g ref="char:EOLhyphen"/>thing Tokens ſhould bee iſſued forth for the good and eaſe of the
+<pb facs="tcp:43594:3"/>
+               <!-- PDF PAGE 3 -->Subject, and that without any loſſe or hindrance at all, or any other inconveniency, and therefore appointed the rechange as well as the exchange thereof.</p>
+            <p n="6">
+               <hi>6.</hi> That many of your petitioners have ſtill remaining in their hands great quantities of Farthings unrechanged, which were made and iſſued forth by the authority of the ſaid Dutches of Le<g ref="char:EOLhyphen"/>nox and Sir <hi>Francis Crane,</hi> and ſince by the authority of the L. <hi>Matravers</hi> and Sir <hi>Francis Crane,</hi> which your petitioners can<g ref="char:EOLhyphen"/>not get to be rechanged, although they have often deſired and en<g ref="char:EOLhyphen"/>deavoured the ſame, and although all the ſaid Patentees have un<g ref="char:EOLhyphen"/>dertaken and covenanted with his Majeſty to rechange them.</p>
+            <p>That the allowance of one and twenty ſhillings in Farthing To<g ref="char:EOLhyphen"/>kens for twenty ſhillings in money, hath beene the chiefeſt cauſe of your petitioners great burden, for many covetous perſons have u<g ref="char:EOLhyphen"/>ſually fetched out great quantities of Farthings, ſome five pounds at a time, ſome ten pounds, ſome more, and forced them in payments upon poore labouring people.</p>
+            <p>That your petitioners have loſt by the rechange of Tokens into the Office ſome of them fifty pounds, ſome an hundred pounds, ſome two hundred pounds, and much more do ſtill daily loſe, ſo that your petitioners are greatly oppreſſed and damnified in their trading.</p>
+            <p>That your petitioners have heretofore petitioned to his Majeſty for releefe, who was graciouſly inclined to releeve them, and refer<g ref="char:EOLhyphen"/>red the conſideration of their grievances to the Lords of his moſt Honourable Privie Councell, and their Lordſhips com<g ref="char:EOLhyphen"/>miſerated your petitioners ſufferings, nevertheleſſe they have been no way releeved, whereby they are much impoveriſhed, not able to ſubſiſt without redreſſe, all which in their humble Remonſtrance may fully appeare.</p>
+            <p>Wherefore the petitioners moſt humbly pray that they may have all their ſaid tokens rechanged, and for ever here<g ref="char:EOLhyphen"/>after freed from this great oppreſſion and trouble, and in the meane time the Office prohibited from iſſuing forth any Tokens, with ſuch other reparations and releefe for their in<g ref="char:EOLhyphen"/>ſupportable loſſes, as to the great judgement of this Honou<g ref="char:EOLhyphen"/>rable Aſſembly ſhall be requiſite. And they ſhall pray, &amp;c.</p>
+            <closer>
+               <signed>About five hundred hands ſubſcribed to this Petition.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="remonstrances">
+            <pb n="1" facs="tcp:43594:3"/>
+            <!-- PDF PAGE 3 -->
+            <head>An humble Remonſtrance concer<g ref="char:EOLhyphen"/>ning the grievance of Farthing tokens.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Leſſed King JAMES tendring the good of his Subjects, knowing that the richer they grow, the bet<g ref="char:EOLhyphen"/>ter able they would bee to ſerve him; wiſely conſidered that ſmall monyes would be exceeding help<g ref="char:EOLhyphen"/>full to the poore, and for retailing trades, about the eleventh yeare of his Reigne cauſed a copper coine to be made, and to paſſe under the deno<g ref="char:EOLhyphen"/>mination of a Farthing for the eaſe and benefit of the Subject.</p>
+            <p>And the Kings Majeſty that now is, hath ever ſince the death of his Royall Father continued the ſame, and to the ſame end, as by their ſeverall Patents and Pro<g ref="char:EOLhyphen"/>clamations may appeare.</p>
+            <p>Nevertheleſſe it hath beene for a long time, and ſtill is the greateſt oppreſſion that ever was upon the Sub<g ref="char:EOLhyphen"/>ject; for put all thoſe inſupportable projects or mo<g ref="char:EOLhyphen"/>nopolies that of late yeares hath beene ſet on foote into one end of the ballance, and this grievance of Farthing
+<pb n="2" facs="tcp:43594:4"/>
+               <!-- PDF PAGE 4 -->tokens into the other end, and it will out weigh them all, unto the Petitioners and to many thouſands more, which for manifeſtation they doe here humbly pre<g ref="char:EOLhyphen"/>ſent to the great Judgement of this honourable Aſſem<g ref="char:EOLhyphen"/>bly theſe conſiderable things:
+<list>
+                  <item>1. The Petitioners inconceivable loſſe.</item>
+                  <item>2. How the ſame is occaſioned.</item>
+                  <item>3. The great benefit the Office makes thereby.</item>
+                  <item>4. The remedie or prevention of this evill for future times.</item>
+               </list>
+            </p>
+            <p>For the greatneſſe of the loſſe, that it is heavier then all the projects or monopolies, appeares whether con<g ref="char:EOLhyphen"/>ſidered in the Petitioners yearly loſſe or totall ſumme.</p>
+            <p>The projects for Salt, Sope, Starch, Tobacco, Cards, Pins, Butter, caskes, tranſporting of Leather, Ship-mo<g ref="char:EOLhyphen"/>ny, &amp;c. all which, moſt of the Petitioners were loſers by, yet the loſſe of all theſe put together, is not comparable to the Farthings.</p>
+            <p>For in all theſe to loſe forty ſhillings a yeare, or twenty ſhillings a yeare for each man was much, but this oppreſſion of Farthings is to ſome five pound <hi>per annum,</hi> to ſome eight pound, tenne pound, to ſome twelve pound, fifteen pound <hi>per annum,</hi> and more, e<g ref="char:EOLhyphen"/>nough to bring many thouſands of families to breaking and beggery.</p>
+            <pb n="3" facs="tcp:43594:4"/>
+            <!-- PDF PAGE 4 -->
+            <p>And many of theſe great loſers are poore men which never was able to be brought within the liſt of Sub<g ref="char:EOLhyphen"/>ſidie or Ship-mony.</p>
+            <p>And for the totall of the Petitioners loſſes, it is to ſome twenty pound, to ſome forty pound, fifty, to ſome a hundred pound, a hundred and fifty, to ſome two hun<g ref="char:EOLhyphen"/>dred pound and more, ſo that many of the Petitioners have loſt more by tokens then their whole eſtate a<g ref="char:EOLhyphen"/>mounts unto.</p>
+            <p>Beſides theſe monopolizing oppreſſions of Sope, Ship-money, &amp;c. have beene impoſed of late yeares, but this of Farthing tokens, hath continued for this twenty ſeven yeares and more, and many poore retai<g ref="char:EOLhyphen"/>ling trades men doe loſe as much by them in one year as they are worth.</p>
+            <div n="2" type="remonstrance">
+               <head>The ſecond thing to remonſtrate, is how this great oppreſsion is occaſioned.</head>
+               <p>The firſt occaſion is, in iſſuing forth from the Office one and twenty ſhillings in tokens, for twenty ſhillings in money, which profit intices rich men to fetch them out, ſome forty ſhillings, five pound, ſome ten pound a weeke conſtantly, and in greater ſummes, and forces them in payments upon poore worke men, as if they were hirelings to the Office to ruine the Kingdome</p>
+               <p>And with theſe tokens poore people come to buy
+<pb n="4" facs="tcp:43594:5"/>
+                  <!-- PDF PAGE 5 -->bread, butter, cheeſe, coales, and other neceſſaries, and the Petitioners muſt either take them or leave off tra<g ref="char:EOLhyphen"/>ding, then are forced to bring them weekly to the Of<g ref="char:EOLhyphen"/>fice, and loſe twelve pence <hi>per</hi> pound, five pound <hi>per centum</hi> at the leaſt.</p>
+               <p>The ſecond occaſion is, the altering of the ſtampe which hath been done five ſeverall times, and at each alteration tokens have beene left upon the Petitioners hands.</p>
+               <p>And many of the Petitioners have yet great quanti<g ref="char:EOLhyphen"/>ties of old tokens unrechanged, ſome forty ſhillings, five pound, ſome tenne pound, fifteene, twenty, thirty, for<g ref="char:EOLhyphen"/>ty, fifty pound, &amp; more, which the Office refuſe to re<g ref="char:EOLhyphen"/>change, although they have beene often required there<g ref="char:EOLhyphen"/>unto, and although the patentees have covenanted with his Majeſty to rechange them, as by their ſeverall Pa<g ref="char:EOLhyphen"/>tents, and the Kings Proclamations may appear.</p>
+               <p>The third occaſion is, the abuſe of the Office cau<g ref="char:EOLhyphen"/>ſing the Petitioners daily attendance before they could get their tokens rechanged.</p>
+               <p>For all the weeke they take to deliver out tokens, and appointed but three dayes a weeke to rechange, and but ſix houres in a day, viz. from eight to eleven in the fore noone, and from one till foure in the after noone, and the greateſt part of that little time was ſpent in de<g ref="char:EOLhyphen"/>livering out tokens, and the reſt in a trifling rechange of a ſmall quantity, whereby the Petitioners have wai<g ref="char:EOLhyphen"/>ted day after day, weeke after weeke, to have their
+<pb n="5" facs="tcp:43594:5"/>
+                  <!-- PDF PAGE 5 -->tokens rechanged, and in the interim want money to manage their trades, for thoſe with whom they have to deale will not be paid in tokens, beſides the Office hath cut and defaced many of thoſe tokens which them<g ref="char:EOLhyphen"/>ſelves have iſſued forth, pretending them to be naught.</p>
+            </div>
+            <div n="3" type="remonstrance">
+               <head>The third thing to remonſtrate, is the great profit which the Patentees doe make by Tokens.</head>
+               <p>The greatneſſe of the profit will appeare upon ex<g ref="char:EOLhyphen"/>amination of the quantities of the Farthings, iſſued forth upon each ſeverall ſtampe, and of the ſmall ſummes re<g ref="char:EOLhyphen"/>ceived in.</p>
+               <p>For inſtance, the laſt ſtampe of ſingle ringed tokens, it is conceived there was a hundred and twenty thou<g ref="char:EOLhyphen"/>ſand pounds made and iſſued forth; and when the ſtampe was altered, there was not forty thouſand pounds received in againe; ſo that there muſt be ſtill in the hands of the ſubject foureſcore thouſand pounds at the leaſt, which they could never get to be rechanged.</p>
+               <p>Now the charge of copper and making of the tokens, is not above five ſhillings <hi>per</hi> pound, ſo that the Office gaines fifteene ſhillings in twenty, which amounts to threeſcore thouſand pounds <hi>de claro</hi> that they have gotten by one ſort of tokens; a farre greater profit then all the Kings Mints of England, Scotland, &amp;c. can make.</p>
+               <p>For the coinage of fourſcore thouſand pounds in
+<pb n="6" facs="tcp:43594:6"/>
+                  <!-- PDF PAGE 6 -->ſilver is but eleven hundred and eleven pounds, three ſhillings foure pence, which properly belongs to the King, out of which he defrayes all the charges of the Mint, except the workmanſhip, which charges being deducted, the King gaines not <hi>de claro</hi> five hundred pounds but in foureſcore thouſand pounds of Tokens, the Office gaines threeſcore thouſand pounds at the leaſt, which ſhewes that the Office of Farthings is more then a hundred times as good as the Mint, quantity for quantity: &amp; out of all this great profit the King hath but foureſcore pounds <hi>per annum</hi> rent: an inconſiderable ſumme for ſo inconceiveable a gaine.</p>
+            </div>
+            <div n="4" type="remonstrance">
+               <head>The fourth thing to remonſtrate, is the remedy or preven<g ref="char:EOLhyphen"/>tion of this evil for future times.</head>
+               <p>For to lay downe the Office will not be convenient, then all retailing trades will want ſmall monies, and the poore reliefe, therefore it is requiſite,</p>
+               <list>
+                  <item>1. That the Office bee ſetled in the power of the Crowne, and not in any ſubject.</item>
+                  <item>2. That there bee ſome neerer proportion betwixt the extrinſeck denomination and the intrinſeck value.</item>
+                  <item>3. That it may be felony either to import or coun<g ref="char:EOLhyphen"/>terfeit them.</item>
+                  <item>4. That no advantage may be allowed upon iſſuing forth any Tokens, and the Office to receive them in up<g ref="char:EOLhyphen"/>on the like termes.</item>
+               </list>
+               <p>It may be alledged,</p>
+               <p>
+                  <hi>Alleg.</hi> 1. If the oppreſſion were ſo great, and of ſuch
+<pb n="7" facs="tcp:43594:6"/>
+                  <!-- PDF PAGE 6 -->continuance as is pretended, it would long ſince have beene complained of.</p>
+               <p>
+                  <hi>Anſ.</hi> The Petitioners have not beene wanting to their great charge to complaine and ſeeke reliefe, both to King JAMES, and to the Kings Majeſty that now is, and they, graciouſly inclined to releeve them, have ſeverall times referred the ſame to the Lords of the Councell, and by their Lordſhips to ſome Lords Com<g ref="char:EOLhyphen"/>mittees, but the Petitioners could never procure any thing to be done therein.</p>
+               <p>And the Office hath been made acquainted with the Petitioners complaints, and hath given in their anſwers of defence: the chiefe heads whereof wee doe here humbly preſent.</p>
+            </div>
+            <div n="1" type="pretence">
+               <head>Firſt pretence of the Office.</head>
+               <p>That the iſſuing forth of one and twenty ſhillings in Tokens for twenty ſhillings in money, and the rechange of one and twenty ſhillings in Tokens for twenty ſhil<g ref="char:EOLhyphen"/>lings in money is warranted by the Kings Patents and Proclamation, ſo that the Office is no way faulty.</p>
+               <p>
+                  <hi>Anſw.</hi> The King by his ſeverall Patents and Procla<g ref="char:EOLhyphen"/>mations doth declare that it is his intent and pleaſure that the Farthing Tokens ſhould be an eaſe and benefit to the Subject, and not otherwiſe; but it is an inſuffe<g ref="char:EOLhyphen"/>rable oppreſſion, and ſo againſt the Kings minde.</p>
+               <pb n="8" facs="tcp:43594:7"/>
+               <!-- PDF PAGE 7 -->
+            </div>
+            <div n="2" type="pretence">
+               <head>Second pretence.</head>
+               <p>That to rechange upon the ſame termes as is delive<g ref="char:EOLhyphen"/>red out, is no damage to any.</p>
+               <p>
+                  <hi>Anſ.</hi> It is true, if the ſame parties that fetch them out did bring them in, but it is otherwiſe, for the rich fetch them out, and gaine five pounds <hi>per cent.</hi> and the Petitioners bring them in, and loſe five pounds <hi>per cent.</hi> and never fetch out any.</p>
+            </div>
+            <div n="3" type="pretence">
+               <head>Third pretence.</head>
+               <p>That the Petitioners knowing the loſſe by rechange, proportion the prizes of their wares accordingly, and ſo are no loſers.</p>
+               <p>
+                  <hi>Anſw.</hi> It is not ſo: for the Petitioners deliver out their commodities either by weight or meaſure, neither doe they know what money people bring, and when their commodities are cut or weighed out, they muſt take Tokens, or elſe loſe more by taking the commodi<g ref="char:EOLhyphen"/>ty againe, and loſe their cuſtomers too.</p>
+               <p>Beſides, if the Petitioners ſhould proportion their wares according to the loſſe by rechange, then the op<g ref="char:EOLhyphen"/>preſſion of the ſubject would bee the greater, for that would inhance the prizes of proviſion, which is the beg<g ref="char:EOLhyphen"/>gering of a Kingdome.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43594:7"/>
+            <!-- PDF PAGE 7 -->
+         </div>
+      </body>
+   </text>
+</TEI>
